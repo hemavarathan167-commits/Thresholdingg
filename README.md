@@ -112,7 +112,7 @@ plt.title("Otsu's Method")
 plt.axis('off')
 ```
 ## Output
-
+```
 <img width="545" height="537" alt="image" src="https://github.com/user-attachments/assets/1b8be6a5-dbd9-4627-a86f-e698a003e241" />
 <img width="427" height="385" alt="image" src="https://github.com/user-attachments/assets/c6ce6777-eb58-4f12-9dbe-405728cec21d" />
 <img width="367" height="366" alt="image" src="https://github.com/user-attachments/assets/12ad27b8-3b4b-48fa-a6f1-05da51a49d1f" />
