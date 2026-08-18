@@ -36,7 +36,7 @@ Developed by
  - NAME : HEMAVARATHAN S
  - REG NO : 212225240050
 
-```python
+python
 # Load the necessary packages
 ```
 **import numpy as np
